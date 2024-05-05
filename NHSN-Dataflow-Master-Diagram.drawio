@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-05T20:03:56.950Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="QEgvgAnGfw-C9nDlzrcp" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-05T20:04:07.352Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="moi2aRQ3CA5jllVtHNWt" version="24.3.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="4312" dy="1439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#E6E6E6" math="0" shadow="0">
       <root>
@@ -6,7 +6,7 @@
         <mxCell id="1" parent="0" />
         <UserObject label="" link="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Dapr_logo.svg/1200px-Dapr_logo.svg.png" id="AK11A_lTFDKfyhDP3cZT-3">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#e1d5e7;strokeColor=#9673a6;glass=0;strokeWidth=2;perimeterSpacing=0;" parent="1" vertex="1">
-            <mxGeometry x="-2150" y="-40" width="4440" height="1910" as="geometry" />
+            <mxGeometry x="-2150" y="-40" width="4370" height="1910" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="tp5nq1VoE5CaEKhNv_x4-137" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
