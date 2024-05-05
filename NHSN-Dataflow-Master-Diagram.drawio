@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-05-05T19:59:43.213Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="BE2LaJoaXNm0i36KUnLe" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-05T20:00:57.970Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="8Yd8UZZk4dVodhSy-UVV" version="24.3.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="5512" dy="1439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#E6E6E6" math="0" shadow="0">
+    <mxGraphModel dx="6468" dy="1958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#E6E6E6" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Dapr_logo.svg/1200px-Dapr_logo.svg.png" link="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Dapr_logo.svg/1200px-Dapr_logo.svg.png" id="AK11A_lTFDKfyhDP3cZT-3">
+        <UserObject label="" link="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Dapr_logo.svg/1200px-Dapr_logo.svg.png" id="AK11A_lTFDKfyhDP3cZT-3">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#e1d5e7;strokeColor=#9673a6;glass=0;strokeWidth=2;perimeterSpacing=0;" parent="1" vertex="1">
             <mxGeometry x="-3440" y="-40" width="5730" height="1910" as="geometry" />
           </mxCell>
