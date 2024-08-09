@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xV2-DqPg_27y4KBebF6c-39" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fillColor=#E6E6E6;strokeColor=#666666;fontColor=#333333;arcSize=8;" parent="1" vertex="1">
-          <mxGeometry x="-350" y="160" width="1270" height="500" as="geometry" />
+          <mxGeometry x="-350" y="160" width="1340" height="500" as="geometry" />
         </mxCell>
         <mxCell id="vM5lTf9RMHXCYF5sCvvl-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;shadow=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-120" y="220" width="1080" height="410" as="geometry" />
@@ -61,9 +61,6 @@
         <mxCell id="qDD7QkIdliGN90tHD5vf-7" value="Update&lt;div&gt;dQM Bronze&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="460" width="90" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="x2gIdv0qrMuqdxSKQ4Gq-11" value="PRS Dataflow Diagram" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;shadow=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="195" y="170" width="150" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="x2gIdv0qrMuqdxSKQ4Gq-12" value="Generate&lt;div&gt;Global Patient IDs&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="290" width="90" height="120" as="geometry" />
         </mxCell>
@@ -73,14 +70,17 @@
         <mxCell id="x2gIdv0qrMuqdxSKQ4Gq-16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#808080;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" edge="1" parent="1" source="x2gIdv0qrMuqdxSKQ4Gq-15" target="vM5lTf9RMHXCYF5sCvvl-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x2gIdv0qrMuqdxSKQ4Gq-15" value="dQM&lt;div&gt;Bronze Import&lt;/div&gt;&lt;div&gt;Complete&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;shadow=1;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="215" width="140" height="420" as="geometry" />
+        <mxCell id="x2gIdv0qrMuqdxSKQ4Gq-15" value="dQM&lt;div&gt;Bronze Import&lt;/div&gt;&lt;div&gt;Complete&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="370" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="x2gIdv0qrMuqdxSKQ4Gq-18" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#808080;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" edge="1" parent="1" source="x2gIdv0qrMuqdxSKQ4Gq-17" target="qDD7QkIdliGN90tHD5vf-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x2gIdv0qrMuqdxSKQ4Gq-17" value="Load&lt;div&gt;Configurations&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="290" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="x2gIdv0qrMuqdxSKQ4Gq-19" value="PRS Dataflow Diagram" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0CCDE;shadow=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="245" y="170" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
