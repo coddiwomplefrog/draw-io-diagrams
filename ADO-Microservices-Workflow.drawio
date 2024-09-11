@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="24.7.13">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="1834" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#F0F0F0" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xV2-DqPg_27y4KBebF6c-39" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fillColor=#E6E6E6;strokeColor=#666666;fontColor=#333333;arcSize=8;" parent="1" vertex="1">
+          <mxGeometry x="-350" y="160" width="990" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="vM5lTf9RMHXCYF5sCvvl-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;shadow=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-130" y="220" width="720" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="dZIAszViUNVuEi2tJDXL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="966" y="714.25" as="sourcePoint" />
+            <mxPoint x="966" y="714.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x2gIdv0qrMuqdxSKQ4Gq-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#808080;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;fillColor=#f8cecc;" parent="1" source="qDD7QkIdliGN90tHD5vf-1" target="qDD7QkIdliGN90tHD5vf-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qDD7QkIdliGN90tHD5vf-1" value="Load Configs&lt;div&gt;Checkout NHSN&lt;/div&gt;&lt;div&gt;Load Deploy Template&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="290" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="x2gIdv0qrMuqdxSKQ4Gq-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#808080;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;fillColor=#d5e8d4;" parent="1" source="qDD7QkIdliGN90tHD5vf-2" target="qDD7QkIdliGN90tHD5vf-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qDD7QkIdliGN90tHD5vf-2" value="Run Bash&lt;div&gt;Deploy w/ Helm&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="290" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qDD7QkIdliGN90tHD5vf-3" value="Pod created in Kubernetes" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="290" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="x2gIdv0qrMuqdxSKQ4Gq-14" value="PRS Parent Notebook" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0CCDE;shadow=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="155" y="230" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x2gIdv0qrMuqdxSKQ4Gq-16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#808080;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" parent="1" source="x2gIdv0qrMuqdxSKQ4Gq-15" target="vM5lTf9RMHXCYF5sCvvl-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2gIdv0qrMuqdxSKQ4Gq-15" value="ADO&lt;div&gt;Pipeline&lt;/div&gt;&lt;div&gt;Run&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-330" y="300" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="x2gIdv0qrMuqdxSKQ4Gq-18" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#808080;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" parent="1" source="x2gIdv0qrMuqdxSKQ4Gq-17" target="qDD7QkIdliGN90tHD5vf-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2gIdv0qrMuqdxSKQ4Gq-17" value="&lt;div&gt;Load Variable Groups&amp;nbsp;&lt;/div&gt;&lt;div&gt;Apply Secrets&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="290" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="x2gIdv0qrMuqdxSKQ4Gq-19" value="ADO Microservice Workflow" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0CCDE;shadow=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="147.5" y="170" width="165" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
