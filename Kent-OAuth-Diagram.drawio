@@ -436,8 +436,11 @@
         <mxCell id="w1oJ-1PiQWOfM-H6JgOV-231" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;DATA ENCRYPTED EVEN WITH EXPIRED CERT&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1107.54" y="1541.76" width="200.46" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="w1oJ-1PiQWOfM-H6JgOV-235" value="&lt;p class=&quot;p1&quot; style=&quot;&quot;&gt;&lt;b&gt;An SSL/TLS certificate establishes the encryption keys that protect data in transit. As long as the certificate is active, the keys are trusted and data remains secure. Even if a certificate later expires, the encryption process itself still works — data is still scrambled and protected — but clients will show warnings because the expired certificate is no longer considered trustworthy&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;align=center;strokeColor=#808080;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="w1oJ-1PiQWOfM-H6JgOV-235" value="&lt;p class=&quot;p1&quot; style=&quot;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;align=center;strokeColor=#808080;strokeWidth=3;perimeterSpacing=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="1683" width="990" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w1oJ-1PiQWOfM-H6JgOV-238" value="&lt;b style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;An SSL/TLS certificate establishes the encryption keys that protect data in transit. As long as the certificate is active, the keys are trusted and data remains secure. Even if a certificate later expires, the encryption process itself still works — data is still scrambled and protected — but clients will show warnings because the expired certificate is no longer considered trustworthy&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1698" width="950" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
