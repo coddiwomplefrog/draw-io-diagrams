@@ -448,7 +448,7 @@
         <mxCell id="w1oJ-1PiQWOfM-H6JgOV-230" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Entra_Verified_ID.svg;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1018.4699999999998" y="1463.5" width="14.92" height="13.26" as="geometry" />
         </mxCell>
-        <mxCell id="w1oJ-1PiQWOfM-H6JgOV-231" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;DATA ENCRYPTED EVEN WITHOUT VALID CERT&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="w1oJ-1PiQWOfM-H6JgOV-231" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;DATA ENCRYPTED EVEN WITH EXPIRED CERT&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1107.54" y="1541.76" width="200.46" height="40" as="geometry" />
         </mxCell>
       </root>
